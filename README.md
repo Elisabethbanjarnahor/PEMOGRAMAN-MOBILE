@@ -6,10 +6,12 @@
 ## Matkul          :Pemograman mobile
 
 ## 🎯 Deskripsi
+```
 Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI, dan UX Design untuk tugas uts.
-
+```
 
 # Storyboard
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
 
 
 # Mockup
