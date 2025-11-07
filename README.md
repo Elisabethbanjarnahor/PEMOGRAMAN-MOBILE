@@ -5,6 +5,10 @@
 ## Kelas           :Ti.24.A5
 ## Matkul          :Pemograman mobile
 
+## 🎯 Deskripsi
+Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI, dan UX Design untuk tugas uts.
+
+
 # Storyboard
 
 
