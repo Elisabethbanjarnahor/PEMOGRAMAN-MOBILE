@@ -19,7 +19,7 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI, dan UX Design untuk tu
 
 
 # UI
-
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/d1cc2afb1a1a1a8ae8fa6ab3985da159548b866a/Screenshot%202025-11-08%20235353.png)
 
 # UX
 
