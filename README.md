@@ -7,7 +7,7 @@
 
 ## 🎯 Deskripsi
 ```
-Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI, dan UX Design untuk tugas uts.
+Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas uts.
 ```
 
 # Storyboard
@@ -18,13 +18,6 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI, dan UX Design untuk tu
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/a9635d57583a35ba0520203aea59cf8b9d2e18f2/Screenshot%202025-11-01%20155812.png)
 
 
-# UI
+# UI/UX
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/d1cc2afb1a1a1a8ae8fa6ab3985da159548b866a/Screenshot%202025-11-08%20235353.png)
 
-# UX
-
-
-# Timeline
-
-
-# 
