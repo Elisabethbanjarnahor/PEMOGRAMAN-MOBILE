@@ -23,6 +23,10 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas p
 # UI/UX
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/629ae1dccaa060bdb7cd074a43139720d7930c04/Screenshot%202025-11-11%20112526.png)
 
+# splascreen figma design
+[![splascren](https://youtu.be/AchZ8sVLZcI)
+
+
 ```
 Proyek ini berisi hasil pembuatan Design Androidstudio untuk tugas project.
 ```
