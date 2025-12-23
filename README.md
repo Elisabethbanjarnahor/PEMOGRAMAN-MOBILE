@@ -9,13 +9,6 @@
 ## 🎯 Deskripsi
 
 ```
-Proyek ini berisi hasil pembuatan Design untuk tugas project.
-```
-
-
-
-
-```
 Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas project.
 ```
 
@@ -29,4 +22,21 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas p
 
 # UI/UX
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/629ae1dccaa060bdb7cd074a43139720d7930c04/Screenshot%202025-11-11%20112526.png)
+
+```
+Proyek ini berisi hasil pembuatan Design Androidstudio untuk tugas project.
+```
+# Tanggal 29,Nov,2025 Pembuatan splascreen Android
+
+
+
+
+
+
+
+
+
+
+
+
 
