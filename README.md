@@ -8,9 +8,7 @@
 
 ## 🎯 Deskripsi
 
-```
-Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas project.
-```
+# Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas project.
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
@@ -27,9 +25,8 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas p
 [![splashscreen](https://img.youtube.com/vi/AchZ8sVLZcI/0.jpg)](https://youtu.be/AchZ8sVLZcI)
 
 
-```
-Proyek ini berisi hasil pembuatan Design Androidstudio untuk tugas project.
-```
+# Proyek ini berisi hasil pembuatan Design Androidstudio untuk tugas project.
+
 # Tanggal 29,Nov,2025 Pembuatan splascreen Peningat Minum Android
 foto
 # Tanggal 30,Nov,2025 pembuatan selamat datang
