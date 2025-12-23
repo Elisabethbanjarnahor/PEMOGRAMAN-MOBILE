@@ -24,7 +24,7 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas p
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/629ae1dccaa060bdb7cd074a43139720d7930c04/Screenshot%202025-11-11%20112526.png)
 
 # splascreen figma design
-[![splascren](https://youtu.be/AchZ8sVLZcI)
+[![splashscreen](https://img.youtube.com/vi/AchZ8sVLZcI/0.jpg)](https://youtu.be/AchZ8sVLZcI)
 
 
 ```
