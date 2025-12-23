@@ -30,8 +30,19 @@ Proyek ini berisi hasil pembuatan Storyboard, Mockup, UI/UX Design untuk tugas p
 ```
 Proyek ini berisi hasil pembuatan Design Androidstudio untuk tugas project.
 ```
-# Tanggal 29,Nov,2025 Pembuatan splascreen Android
+# Tanggal 29,Nov,2025 Pembuatan splascreen Peningat Minum Android
+foto
+# Tanggal 30,Nov,2025 pembuatan selamat datang
 
+# Tanggal 30,Nov,2025 pembuatan halamana utama ( intro ) Pengingat Minum Android
+foto
+# Tanggal 29-31,Nov,2025 Implementasi di Android Studio, bagian,( intro.xml, pengingat minum.xml,setel.xml)
+
+# Tanggal 13,Des,2025 create location in android studio
+
+# Tanggal 18,Des,2025 Implementasi Notification
+
+# Tanggal 18,Des,2025 Implementasi story ( Riwayat )
 
 
 
