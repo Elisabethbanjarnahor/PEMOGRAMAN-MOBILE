@@ -41,13 +41,14 @@ foto
 # Tanggal 13,Des,2025 create location in android studio
 
 # Tanggal 18,Des,2025 Implementasi Notification
-![foto]()
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/fcd832ca0a844f2bc2bc7b5b6c993876d096a288/WhatsApp%20Image%202025-12-31%20at%2017.09.42.jpeg)
+
 
 # Tanggal 18,Des,2025 Implementasi story ( Riwayat )
 
 
-
-
+# tanggal 28-31,Des,2025 Implementasi Notification
+![foto]()
 
 
 
