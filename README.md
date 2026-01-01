@@ -20,7 +20,7 @@
 
 
 # UI/UX
-![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/629ae1dccaa060bdb7cd074a43139720d7930c04/Screenshot%202025-11-11%20112526.png)
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/e1aac61faabc17a801829f9482a7d7482d6a5dfa/Screenshot%202026-01-01%20181146.png)
 
 
 # Video youtube splascreen figma design
