@@ -37,7 +37,9 @@
 # Tanggal 30,Nov,2025 pembuatan selamat datang
 
 # Tanggal 30,Nov,2025 pembuatan halamana utama ( intro ) Pengingat Minum Android
-foto
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/7302fe546fc0fe476b2e265388fe5cacfc857ec8/intro%20pengingat%20android.png)
+
+
 # Tanggal 29-31,Nov,2025 Implementasi di Android Studio, bagian,( intro.xml, pengingat minum.xml,setel.xml)
 
 # Tanggal 13,Des,2025 create location in android studio
