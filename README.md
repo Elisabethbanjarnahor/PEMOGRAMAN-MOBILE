@@ -35,6 +35,7 @@
 
 
 # Tanggal 30,Nov,2025 pembuatan selamat datang
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/800a9927f850cd80a1686d6388ce292f65adee53/selamat%20datang(welcome).png)
 
 # Tanggal 30,Nov,2025 pembuatan halamana utama ( intro ) Pengingat Minum Android
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/7302fe546fc0fe476b2e265388fe5cacfc857ec8/intro%20pengingat%20android.png)
