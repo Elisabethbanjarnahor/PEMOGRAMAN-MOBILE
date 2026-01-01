@@ -30,7 +30,7 @@
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
 
 
-# Tanggal 29,Nov,2025 Pembuatan splascreen Peningat Minum Android
+# Tanggal 29,Nov,2025 Pembuatan splascreen Pengingat Minum Android
 foto
 # Tanggal 30,Nov,2025 pembuatan selamat datang
 
