@@ -10,6 +10,8 @@
 
 # PROYEK INI BERISI HASIL PEMBUATAN STORYBOARD, MOCKUP, UI/UX DESIGN UNTUK TUGAS PROJECT DALAM FIGMA.
 
+# lINK FIGMA
+![figma](https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=pu7rrG2VDm5N4EfI-0)
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
@@ -29,6 +31,8 @@
 
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
 
+# LINK CLICKUP
+![clickup](https://app.clickup.com/90181791702/v/li/901811778050)
 
 # Tanggal 29,Nov,2025 Pembuatan splascreen Pengingat Minum Android
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/a295d6f6cd340b02ca2f61a47a54daaf79d266a4/splass%20android.png)
