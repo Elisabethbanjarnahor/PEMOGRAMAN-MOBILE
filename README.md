@@ -33,7 +33,8 @@ https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=p
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
 
 # LINK CLICKUP
-![clickup](https://app.clickup.com/90181791702/v/li/901811778050)
+clickup](https://app.clickup.com/90181791702/v/li/901811778050
+
 
 # Tanggal 29,Nov,2025 Pembuatan splascreen Pengingat Minum Android
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/a295d6f6cd340b02ca2f61a47a54daaf79d266a4/splass%20android.png)
