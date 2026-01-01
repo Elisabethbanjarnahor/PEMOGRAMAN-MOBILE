@@ -16,7 +16,7 @@
 
 
 # Mockup
-![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/90210fcb6840138dbbda5afc830f5ef8822305bb/ChatGPT%20Image%2025%20Des%202025%2C%2018.57.40.png)
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/23d97761d9ef261b6435578079fa07a2db1a2bac/mokup%20foto.png)
 
 
 # UI/UX
