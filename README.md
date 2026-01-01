@@ -31,7 +31,9 @@
 
 
 # Tanggal 29,Nov,2025 Pembuatan splascreen Pengingat Minum Android
-foto
+![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/a295d6f6cd340b02ca2f61a47a54daaf79d266a4/splass%20android.png)
+
+
 # Tanggal 30,Nov,2025 pembuatan selamat datang
 
 # Tanggal 30,Nov,2025 pembuatan halamana utama ( intro ) Pengingat Minum Android
