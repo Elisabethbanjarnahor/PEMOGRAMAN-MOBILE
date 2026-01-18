@@ -1,4 +1,4 @@
-## UI/UX Project ##
+## CLICK UP, FIGMA, UI/UX,ANDROID STUDIO.TENTANG PENGINGAT MINUM (DRINK REMINDER) Project ##
 
 ## Nama            :Elisabeth erni banjarnahor
 ## Nim             :312410525
@@ -12,7 +12,10 @@
 
 # lINK FIGMA
 https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=pu7rrG2VDm5N4EfI-0
-
+# LINK CLICKUP
+https://app.clickup.com/90181791702/v/li/901811778050
+# LINK YOUTUBE
+[![drinkreminder]()
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
