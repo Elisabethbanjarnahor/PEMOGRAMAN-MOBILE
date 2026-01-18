@@ -30,7 +30,7 @@ https://sharing.clickup.com/90181791702/b/h/2kzm1vyp-478/d6e4d703a32ad95
 
 
 # Video youtube splascreen figma design
-![foto](https://img.youtube.com/vi/AchZ8sVLZcI/0.jpg)(https://youtu.be/AchZ8sVLZcI)
+https://youtube.com/shorts/ErKX3GQJp8w?feature=share
 
 
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
