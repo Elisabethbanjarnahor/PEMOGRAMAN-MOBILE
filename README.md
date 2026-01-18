@@ -15,7 +15,7 @@ https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=p
 # LINK CLICKUP
 https://app.clickup.com/90181791702/v/li/901811778050
 # LINK YOUTUBE
-[![drinkreminder]()
+[![drinkreminder](https://youtube.com/shorts/ErKX3GQJp8w?feature=share)
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
