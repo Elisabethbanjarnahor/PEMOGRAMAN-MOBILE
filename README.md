@@ -15,7 +15,7 @@ https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=p
 # LINK CLICKUP
 https://sharing.clickup.com/90181791702/b/h/2kzm1vyp-478/d6e4d703a32ad95
 # LINK YOUTUBE
-[![drinkreminder](https://youtube.com/shorts/ErKX3GQJp8w?feature=share)
+https://youtu.be/AchZ8sVLZcI?si=LMz6h_wvY1Y-rEcp
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
@@ -30,7 +30,7 @@ https://sharing.clickup.com/90181791702/b/h/2kzm1vyp-478/d6e4d703a32ad95
 
 
 # Video youtube splascreen figma design
-https://youtube.com/shorts/ErKX3GQJp8w?feature=share
+https://youtu.be/AchZ8sVLZcI?si=LMz6h_wvY1Y-rEcp
 
 
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
