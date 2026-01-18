@@ -13,7 +13,7 @@
 # lINK FIGMA
 https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=pu7rrG2VDm5N4EfI-0
 # LINK CLICKUP
-https://app.clickup.com/90181791702/v/li/901811778050
+https://sharing.clickup.com/90181791702/b/h/2kzm1vyp-478/d6e4d703a32ad95
 # LINK YOUTUBE
 [![drinkreminder](https://youtube.com/shorts/ErKX3GQJp8w?feature=share)
 
@@ -30,7 +30,7 @@ https://app.clickup.com/90181791702/v/li/901811778050
 
 
 # Video youtube splascreen figma design
-[![splashscreen](https://img.youtube.com/vi/AchZ8sVLZcI/0.jpg)](https://youtu.be/AchZ8sVLZcI)
+![foto](https://img.youtube.com/vi/AchZ8sVLZcI/0.jpg)(https://youtu.be/AchZ8sVLZcI)
 
 
 # PROYEK INI BERISI HASIL PEMBUATAN DESIGN ANDROIDSTUDIO UNTUK TUGAS PROJECT.
