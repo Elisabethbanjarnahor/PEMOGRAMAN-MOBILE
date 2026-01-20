@@ -16,6 +16,10 @@ https://www.figma.com/design/X4foUqcH8U7QJk7OQNhtUV/Untitled?node-id=0-1&p=f&t=p
 https://sharing.clickup.com/90181791702/b/h/2kzm1vyp-478/d6e4d703a32ad95
 # LINK YOUTUBE
 https://youtu.be/AchZ8sVLZcI?si=LMz6h_wvY1Y-rEcp
+# LINK YOUTUBE LOCATION
+https://youtube.com/shorts/Tg_EM9MBnoA?si=f__HViaJ5Z-AlIgB
+
+
 
 # Storyboard
 ![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/580231b2dfeebb68f8cda795343981cb61b9b295/WhatsApp%20Image%202025-11-07%20at%2021.43.48_a3cd2ec7.jpg)
