@@ -30,7 +30,7 @@ https://youtube.com/shorts/Tg_EM9MBnoA?si=f__HViaJ5Z-AlIgB
 
 
 # UI/UX
-![foto](https://github.com/Elisabethbanjarnahor/PEMOGRAMAN-MOBILE/blob/e1aac61faabc17a801829f9482a7d7482d6a5dfa/Screenshot%202026-01-01%20181146.png)
+![foto](https://youtube.com/shorts/j7lNzegr_TQ?feature=share)
 
 
 # Video youtube splascreen figma design
